@@ -1,0 +1,17 @@
+{
+  "videos": [
+    {
+      "name": "video1",
+      "input": "video1/20251107_150053 - Trim.mp4",
+      "output": "video1/20251107_150053 - Trim_compressed.mp4",
+      "webhook": "YOUR_DISCORD_WEBHOOK_URL_1"
+    },
+    {
+      "name": "video2",
+      "input": "video2/20251114_123534.mp4",
+      "output": "video2/20251114_123534_compressed.mp4",
+      "webhook": "YOUR_DISCORD_WEBHOOK_URL_2"
+    }
+  ],
+  "interval_seconds": 60
+}

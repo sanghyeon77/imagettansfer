@@ -1,0 +1,20 @@
+# 설정 파일 (웹훅 URL 포함)
+config.json
+
+# 임시 파일
+temp_images/
+*.pyc
+__pycache__/
+
+# 영상 파일
+*.mp4
+video1/
+video2/
+
+# 로그 파일
+*.log
+output.log
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
